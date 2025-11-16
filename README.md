@@ -1,16 +1,13 @@
-## Hi there 👋
+# ¡Hola! 👋
 
-<!--
-**lauangulo/lauangulo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy **diseñadora multimedia** con experiencia en maquetación, diseño web y proyectos de vídeo.  
+Actualmente estoy estudiando un **FP de programación**, donde estoy aprendiendo **Java** y **SQL** para ampliar mis habilidades y combinar diseño con desarrollo.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologías que estoy aprendiendo
+- Java ☕
+- SQL 🗄️
+- HTML & CSS (ya con experiencia)
+- 
+## 🌐 Mi portfolio
+Puedes ver mis proyectos en mi página de GitHub Pages:  
+👉 https://lauangulo.github.io/mi-portfolio/
